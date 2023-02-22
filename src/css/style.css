@@ -107,6 +107,7 @@ html {
         height: 500px;
     }
 }
+
 .principal-content .painels .image-painel{
     background-repeat: no-repeat;
     background-size: cover;
@@ -190,6 +191,7 @@ html {
 }
 
 @media (max-width: 1200px){
+
     .who-we-are .content {
        flex-direction: column; 
        text-align: center;
@@ -237,7 +239,6 @@ html {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-
 }
 
 .footer .navigation .logo .image {
@@ -262,5 +263,5 @@ html {
     .footer .navigation .social-media {
         width: 100%;
         justify-content: center;
-    }
+    }   
 }
